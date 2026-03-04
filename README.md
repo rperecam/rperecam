@@ -4,7 +4,7 @@
 
 I am a Data Science and Artificial Intelligence student at Universidad Alfonso X el Sabio , currently working remotely as an Intern Developer at Coderland. My focus lies in applying analytical and computational techniques to optimize complex technological systems beyond innovation. 
 
-I thrive at the intersection of mathematical engineering and software development—bringing what my mentors call a **"hybrid profile"**. I don't just build ML models, pipelines or code; ensure they are scalable, secure, and ready for production using Python, React, and DevOps methodologies.
+I thrive at the intersection of mathematical engineering and software development—bringing what my mentors call a **"hybrid profile"**. I don't just build ML models, pipelines or code;I ensure ensure they are scalable, secure, and ready for production using Python, React, and DevOps methodologies.
 
 ### My Philosophy: "Reflective Latency"
 I believe in moving beyond "greedy", superficial solutions. I approach technical challenges with **reflective latency**: pausing to analyze the deep structure of a problem to choose the most robust and efficient algorithmic path. Whether it's implementing advanced clustering for fraud detection or designing scalable server architectures, I aim for quality and long-term viability.
@@ -24,11 +24,11 @@ According to my Red Bull Wingfinder assessment, my core strengths are being **Ba
 * Exploring all data and neural network world.
 
 <p align="center">
-  <a href="https://github.com/rperecam?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=rperecam&show_icons=true&theme=radical" alt="Estadísticas de Rodrigo" />
+  <a href="https://github.com/rperecam">
+    <img src="https://github-readme-stats.vercel.app/api?username=rperecam&show_icons=true&theme=radical&cache_seconds=86400" alt="Estadísticas de Rodrigo" />
   </a>
-  <a href="https://github.com/rperecam?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rperecam&layout=compact&theme=radical" alt="Lenguajes Top" />
+  <a href="https://github.com/rperecam">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rperecam&layout=compact&theme=radical&cache_seconds=86400" alt="Lenguajes Top" />
   </a>
 </p>
 
