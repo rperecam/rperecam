@@ -23,6 +23,9 @@ According to my Red Bull Wingfinder assessment, my core strengths are being **Ba
 * Working as an Intern Developer at Coderland, bridging the gap between client requirements, functional backend/frontend solutions and innovative projects.
 * Exploring all data and neural network world.
 
+![Estadísticas de Rodrigo](https://github-readme-stats.vercel.app/api?username=rperecam&show_icons=true&theme=radical)
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=rperecam&layout=compact&theme=radical)
+
 ### Let's Connect!
 * **Email:** rodrigo.campesino@hotmail.com 
 * **LinkedIn:** [Rodrigo Perez Campesino](https://www.linkedin.com/in/rodrigo-perez-campesino/) 
