@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Rodrigo Perez Campesino
 
-<!--
-**rperecam/rperecam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Data Science & AI Specialist**
 
-Here are some ideas to get you started:
+I am a Data Science and Artificial Intelligence student at Universidad Alfonso X el Sabio , currently working remotely as an Inter Developer at Coderland. My focus lies in applying analytical and computational techniques to optimize complex technological systems beyond inovation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive at the intersection of mathematical engineering and software development—bringing what my mentors call a **"hybrid profile"**. I don't just build ML models, pipelines or code; ensure they are scalable, secure, and ready for production using Python, React, and DevOps methodologies.
+
+### My Philosophy: "Reflective Latency"
+I believe in moving beyond "greedy", superficial solutions.I approach technical challenges with **reflective latency**: pausing to analyze the deep structure of a problem to choose the most robust and efficient algorithmic path. Whether it's implementing advanced clustering for fraud detection or designing scalable server architectures, I aim for quality and long-term viability.
+
+According to my Red Bull Wingfinder assessment, my core strengths are being **Balanced** (calm and positive under pressure) , **Innovative** (avoiding the obvious path to solve problems) , and **Ambitious**.
+
+### Tech Stack & Skills
+
+* **Data & AI:** Machine Learning (PCA, Clustering, ML, DP), Real-time Data Analysis , Python, R.
+* **Engineering & DevOps:** Backend/Server Programming, DevOps , Database Management, Cloud Arquitecture.
+* **Frontend & Design:** React, Single-Page Applications (SPA-typescript), UX/UI Design.
+* **Languages:** Spanish (Native), English (C1), French(A2).
+
+###  What I'm currently doing
+* Finishing my degree in Data Science and AI at UAX (2023-Present).
+* Working as an Intern Developer at Coderland, bridging the gap between client requirements, functional backend/frontend solutions and innovative projects.
+* Exploring all data and neural network wolrd
+
+### Let's Connect!
+* **Email:** rodrigo.campesino@hotmail.com 
+* **LinkedIn:** [Rodrigo Perez Campesino](https://www.linkedin.com/in/rodrigo-perez-campesino/) 
+
+*"A well-designed algorithm is worth more than raw computing power."*
