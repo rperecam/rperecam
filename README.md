@@ -33,7 +33,7 @@ According to my Red Bull Wingfinder assessment, my core strengths are being **Ba
 </p>
 
 ### Let's Connect!
-* **Email:** rodrigo.campesino@hotmail.com 
+* **Email:** rperezcampesino@gmail.com 
 * **LinkedIn:** [Rodrigo Perez Campesino](https://www.linkedin.com/in/rodrigo-perez-campesino/) 
 
 *"A well-designed algorithm is worth more than raw computing power."*
